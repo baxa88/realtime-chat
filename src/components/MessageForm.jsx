@@ -1,6 +1,3 @@
-
-
-
 import {useState} from 'react';
 import {sendMessage,isTyping} from 'react-chat-engine';
 import {SendOutlined,PictureOutlined} from '@ant-design/icons';

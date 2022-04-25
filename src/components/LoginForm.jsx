@@ -23,7 +23,7 @@ const LoginForm=()=>{
             window.location.reload();
             setError('');
         } catch (error) {
-            setError('Oops,incorrect credentials.')
+            setError(`Foydalanuvchi malumotlari noto'g'ri.`)
         }
     }
 
